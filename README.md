@@ -1,2 +1,3 @@
 # Advanced_Regression_Predict-Team-2
-Repo for Explore DS Students (Team 2), meant for predict collaboration. Let's do this!! 🙂
+This is a good description of the predict project and all the relevant processes involved.
+Subsequent information will be added during the phases of the project. 
